@@ -1,0 +1,6 @@
+{
+  "name": "VELUM",
+  "description": "AR Camera Tracing & Digital Screen Drawing Studio with real-time Sobel edge line art, multi-layer inking, and tactile industrial interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
